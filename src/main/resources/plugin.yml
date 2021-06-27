@@ -1,0 +1,10 @@
+name: DreamRandomItemsChallenge
+version: 1.0
+main: me.ori.main.Main
+api-version: 1.17
+description: Dream's random items challenge!
+commands:
+  DreamRandomItemsChallenge:
+    description: Starts / stops the game!
+    aliases: dric
+
